@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "dependencies": {
+    "async": "0.2.9"
+  },
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-browserify": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
